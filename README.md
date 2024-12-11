@@ -1,3 +1,3 @@
 # jpro
 this is my first repo<br>
-author - Pritam Singh
+author - Pritam Singh singh pritam
